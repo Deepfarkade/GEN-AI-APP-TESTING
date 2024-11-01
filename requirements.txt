@@ -9,7 +9,7 @@ dnspython==2.5.0
 
 # Caching
 redis[hiredis]==5.0.1
-hiredis==2.3.0
+hiredis==2.3.2
 
 # Authentication & Security
 PyJWT==2.8.1
